@@ -1,2 +1,4 @@
-# GithubWorkshop
-This a repo build to be use for Github Workshop-3 for UoR
+# Github Workshop
+
+- This repo's built to be used for Github Workshop-3 for UoR, MSc Project.
+- Please refer to this [lab](https://ajcs01.github.io/Lab_Collections/GitHub_WS/GitHubLab.html)
